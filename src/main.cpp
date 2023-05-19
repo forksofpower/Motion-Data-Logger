@@ -64,8 +64,6 @@ void logToSD(LogData *data) {
   appendFile(SD, "/log.txt", data->toString().c_str());
 };
 
-
-
 void setup(void) {
   // setup serial connection
   Serial.begin(115200);
