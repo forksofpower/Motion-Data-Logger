@@ -12,3 +12,7 @@
 ### Getting Started
 
 _coming soon_
+
+### Why?
+
+I have a 30ft antenna pole and I need to measure the magnitude of sway at the top during normal and windy conditions.
